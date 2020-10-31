@@ -1,1 +1,0 @@
-web: gunicorn JsonConverter.wsgi:application --log-file -
