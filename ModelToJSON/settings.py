@@ -26,7 +26,7 @@ SECRET_KEY = '32&b!1wmyu4*(=g-3albt8^7r+c&wrwpfvik@+=^l9u*68gjwt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["modeltojsonapi.heokuapp.com", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["modeltojsonapi.herokuapp.com", "localhost", "127.0.0.1"]
 
 
 # Application definition
