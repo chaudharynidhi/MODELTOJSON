@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '32&b!1wmyu4*(=g-3albt8^7r+c&wrwpfvik@+=^l9u*68gjwt'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["modeltojsonapi.herokuapp.com", "localhost", "127.0.0.1"]
 
