@@ -19,5 +19,5 @@ from JsonConverter import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', views.showMultiplemodels),
+    path('', views.showMultiplemodels),
 ]
