@@ -1,1 +1,1 @@
-web: gunicorn ModelToJson.wsgi
+web: gunicorn ModelToJSON.wsgi
